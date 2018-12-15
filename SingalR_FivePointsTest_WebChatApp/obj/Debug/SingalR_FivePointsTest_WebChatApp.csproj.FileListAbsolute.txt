@@ -1,0 +1,1 @@
+D:\My_AspDotNetProjects\SingalR_FivePointsTest_WebChatApp\SingalR_FivePointsTest_WebChatApp\SingalR_FivePointsTest_WebChatApp\obj\Debug\SingalR_FivePointsTest_WebChatApp.csprojResolveAssemblyReference.cache
